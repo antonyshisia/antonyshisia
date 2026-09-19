@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Antony Shisia
 
-<!--
-**antonyshisia/antonyshisia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Bachelor of Criminology and Criminal Justice at the University of Nairobi
+- I'm interested in computer forensics, web development, Artificial Intelligence and data science.
+- I'm looking forward to learn and collaborate on developing beginner-friendly open source projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Python, java, java script
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- At the end of this discourse i would like to build a neighborhood resource and community sharing library. A directory where local farmers and members of the community can list and lend farming equipment, tools and develop strong agribusiness community.  
+
+## How to Reach Me
+- Email: antonyshisia@students.uonbi.ac.ke
+- LinkedIn: https://www.linkedin.com/feed/
