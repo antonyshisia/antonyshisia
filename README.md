@@ -1,7 +1,7 @@
 # Hi, I'm Antony Shisia
 
 ## About Me
-- I'm currently learning Bachelor of Criminology and Criminal Justice at the University of Nairobi
+- I'm studying a degree in  Bachelor of Criminology and Criminal Justice at the University of Nairobi
 - I'm interested in computer forensics, web development, Artificial Intelligence and data science.
 - I'm looking forward to learn and collaborate on developing beginner-friendly open source projects.
 
