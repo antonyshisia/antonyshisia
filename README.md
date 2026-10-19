@@ -13,8 +13,7 @@
 - At the end of this discourse i would like to build a neighborhood resource and community sharing library. A directory where local farmers and members of the community can list and lend farming equipment, tools and develop strong agribusiness community.  
 
 ## How to Reach Me
-user.name=Antony Shisia
-user.email=antonyshisia@students.uonbi.ac.ke
-
+- user.name=Antony Shisia
+- user.email=antonyshisia@students.uonbi.ac.ke
 -  Email: antonyshisia@students.uonbi.ac.ke
 - LinkedIn: https://www.linkedin.com/feed/
